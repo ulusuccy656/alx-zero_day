@@ -1,2 +1,1 @@
-My first task in command 
-My second task
+My first task in emacs
